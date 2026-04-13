@@ -1,72 +1,105 @@
 <div align="center">
 
-# 🍄 PRESS START TO PLAY 🍄
+# 🍄 RISHABH ADVENTURES 🍄
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=Player+1+Ready...;Hi,+I'm+Rishabh+Kartik!;Leveling+up+in+Full-Stack+%26+AI;Building+Pixel-Perfect+UIs!" alt="Retro Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=E52521&center=true&vCenter=true&width=800&lines=Level+1+Ready...;Select+Your+Character:;RISHABH+KARTIK;UI/UX+Mage+%26+Full+Stack+Tinkerer" alt="Retro Typing" />
 
-<img src="https://i.pinimg.com/originals/81/25/82/8125828edabfc1bc2e8dd051664fc8b5.gif" width="150" alt="Mario Running" />
+<img src="https://i.pinimg.com/originals/81/25/82/8125828edabfc1bc2e8dd051664fc8b5.gif" width="120" style="margin-top: 10px;" alt="Mario Running" />
 
 </div>
 
 ---
 
-### 🏰 WORLD 1-1: Player Profile
+### <img src="https://i.imgur.com/8QeR34o.gif" width="30" /> HUD: Character Selection
 
-<table align="center">
+<div align="center">
+
+<table style="width: 100%; border: 3px solid #E52521; border-radius: 10px; background-color: #1a1b27; padding: 10px;">
   <tr>
-    <td width="50%">
-      <b>👤 Character:</b> Rishabh Kartik <br>
-      <b>🎓 Base Camp:</b> IIIT Kalyani (3rd Year CSE) <br>
-      <b>💚 HP (CGPA):</b> 9.2 / 10.0 <br>
-      <b>🛡️ Guilds:</b> Pixel Club (Secretary '24-'25) <br>
-      <b>⚔️ Class:</b> Full-Stack Dev / UI-UX Mage / AI Tinkerer
+    <td width="30%" align="center">
+      <img src="https://api.dicebear.com/8.x/retro/svg?seed=Rishabh" width="120" style="border: 2px solid white; border-radius: 50%;" alt="Player Portrait" />
+      <br>
+      <img src="https://i.imgur.com/kP05l2X.gif" width="80" alt="Super Star" />
     </td>
-    <td width="50%">
-      <i>"Currently grinding through the realms of microservices architecture, Agentic AI systems, and competitive programming arenas. Always down to defeat some complex bugs and design high-fidelity dashboards."</i>
+    <td width="70%" style="font-family: 'Courier New', Courier, monospace; color: #fff; vertical-align: top;">
+      <b>NAME:</b> RISHABH KARTIK <br>
+      <b>CLASS:</b> SOFTWARE WIZARD / UI-UX MAGE <br>
+      <b>GUILD:</b> IIIT KALYANI (CSE 3RD YEAR) <br>
+      <b>LEVEL:</b> 3 (Current Year) <br>
+      <br>
+      <b>HP (CGPA):</b> [ █████████▒ ] 9.2 / 10.0 <br>
+      <b>EXP (Projects):</b> [ ██████▒▒▒▒ ] 60% <br>
     </td>
   </tr>
 </table>
 
----
-
-### ⭐️ WORLD 1-2: Power-Ups (Inventory)
-
-**🍄 Core Abilities:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**🔥 Fire Flowers (Web & AI):**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
-**🎨 Super Leaves (Design):**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🏆 WORLD 1-3: Main Quests (Projects)
-
-| Quest Name | Description | Status |
-| :--- | :--- | :--- |
-| **🏦 Banking Op** | A distributed ledger banking system with a Node.js/Python polyglot microservice architecture. Engineered for ACID-compliant transactions and 100% data integrity under heavy loads. | `Level Cleared 🌟` |
-| **🎙️ Intervue Neo** | Serverless AI voice interview platform. Integrated Next.js with Gemini and Vapi Voice AI, utilizing parallel execution for rapid token streaming. | `Level Cleared 🌟` |
-| **⚔️ The DSA Grind** | Conquered 200+ algorithmic enemies (problems) across the LeetCode kingdom, specializing in DP and Graph algorithms. | `In Progress ⏳` |
-
----
-
-### 📊 WORLD 1-4: Player Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh1412&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=E52521" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1412&theme=tokyonight&hide_border=true&background=1a1b27&ring=E52521&fire=E52521&currStreakLabel=E52521" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c6/33/c2/c633c2001bd2cc90c3dd15b9c03b8cc4.gif" width="50" alt="Coin Block" />
-  <br>
-  <i>Ready for the next level. Let's build something awesome.</i>
-</p>
+> "Currently grinding through microservices architecture, Agentic AI systems, and algorithmic arenas. Always down to defeat some complex bugs and design high-fidelity dashboards. Press Start to connect."
+
+---
+
+### <img src="https://i.imgur.com/HnU8jA3.gif" width="30" /> Inventory (Collectibles)
+
+*Gathered standard abilities:*
+
+| Category | Power-Up Inventory |
+| :--- | :--- |
+| **🍄 Core Abilities** | ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **🔥 Fire Flowers (Web/AI)** | ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| **🎨 Super Leaves (Design)** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+
+---
+
+### <img src="https://i.imgur.com/WbU8nK0.gif" width="30" /> Quest Log (Active Missions)
+
+<div align="center">
+
+<table style="border: 2px solid #fff; border-radius: 5px;">
+<thead>
+  <tr>
+    <th>Quest Name (Area)</th>
+    <th>Description & Difficulty</th>
+    <th>Status</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>WORLD 1-1:</b> Banking Op</td>
+    <td><img src="https://i.imgur.com/PjgN12A.png" width="20" /> Polyglot Microservices architecture. (Acid-compliant distributed ledger)</td>
+    <td><img src="https://i.imgur.com/kP05l2X.gif" width="20" /> Level Cleared!</td>
+  </tr>
+  <tr>
+    <td><b>WORLD 1-2:</b> Intervue Neo</td>
+    <td><img src="https://i.imgur.com/c1h5hB9.png" width="20" /> Serverless AI interview platform (Next.js, Gemini, Vapi).</td>
+    <td><img src="https://i.imgur.com/kP05l2X.gif" width="20" /> Level Cleared!</td>
+  </tr>
+  <tr>
+    <td><b>WORLD 1-3:</b> The DSA Grind</td>
+    <td><img src="https://i.imgur.com/c1h5hB9.png" width="20" /> Defeating 200+ algorithm enemies across LeetCode Kingdom.</td>
+    <td><img src="https://i.imgur.com/pYqf7pA.png" width="20" /> In Progress...</td>
+  </tr>
+</tbody>
+</table>
+
+</div>
+
+---
+
+### <img src="https://i.imgur.com/o7zYl7Z.gif" width="30" /> System Stats (High Score)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishabh1412&show_icons=true&theme=tokyonight&hide_border=true&title_color=E52521&icon_color=ffdd54" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh1412&theme=tokyonight&hide_border=true&ring=E52521&fire=ffdd54" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://i.imgur.com/i9zM4N4.gif" width="80" alt="Hit Coin Block" />
+<br>
+<img src="https://i.imgur.com/u7F6P0h.gif" width="40" alt="1UP" /> <i>"READY FOR THE NEXT WORLD. LET'S BUILD."</i>
+</div>
