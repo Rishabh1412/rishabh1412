@@ -63,10 +63,10 @@
 
 | Project | Description | Core Architecture |
 | :--- | :--- | :--- |
-| **[Intervue Neo](#)** | Serverless AI voice interview platform enabling real-time conversational assessments. Features parallel execution pipelines and optimized token streaming for ultra-low latency. | `Gemini` `Vapi AI` `Serverless` |
-| **[Banking Op](#)** | Distributed ledger system designed to handle high-throughput, ACID-compliant transactions across a highly available network. | `Node.js` `Python` `Polyglot` |
-| **[Mowee](#)** | Microservices-based movie ticket booking ecosystem. Engineered with real-time seat locking to prevent race conditions; validated via rigorous load testing. | `Redis` `Socket.IO` `Microservices` |
-| **[FLOW](#)** | Modern financial dashboard emphasizing cash flow tracking and transaction management. Combines a highly optimized state management layer with a polished, high-fidelity UI. | `Next.js` `Zustand` `Tailwind v4` |
+| **[Intervue Neo](https://github.com/Rishabh1412/Intervue-Neo)** | Serverless AI voice interview platform enabling real-time conversational assessments. Features parallel execution pipelines and optimized token streaming for ultra-low latency. | `Gemini` `Vapi AI` `Serverless` |
+| **[Banking Op](https://github.com/Rishabh1412/banking-op)** | Distributed ledger system designed to handle high-throughput, ACID-compliant transactions across a highly available network. | `Node.js` `Python` `Polyglot` |
+| **[Mowee](https://github.com/Rishabh1412/Movie-frontend)** | Microservices-based movie ticket booking ecosystem. Engineered with real-time seat locking to prevent race conditions; validated via rigorous load testing. | `Redis` `Socket.IO` `Microservices` |
+| **[FLOW](https://github.com/Rishabh1412/Dashboard-Frontend)** | Modern financial dashboard emphasizing cash flow tracking and transaction management. Combines a highly optimized state management layer with a polished, high-fidelity UI. | `Next.js` `Zustand` `Tailwind v4` |
 
 <br>
 
