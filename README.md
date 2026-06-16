@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&vCenter=true&width=800&lines=Hi,+I'm+Rishabh+Kartik;Full-Stack+%26+AI+Engineer;UI%2FUX+Design+Advocate;Bridging+Backend+Scale+%26+Frontend+Fidelity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&vCenter=true&width=800&lines=Hi,+I'm+Rishabh+Kartik;Full-Stack+%26+AI+Engineer;UI%2FUX+Designer;Bridging+Backend+Scale+%26+Frontend+Fidelity" alt="Typing SVG" />
 </a>
 
 **Full-Stack & AI Engineer | UI/UX Designer**
